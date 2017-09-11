@@ -1,0 +1,21 @@
+### 1. What is a repository (or repo)?
+A repository is a folder where you can place and save your files under git.
+
+### 2. What does it mean to “fork” a repo?
+To fork a repo means you take someone else work and copy it to your account.
+
+### 3. What does it mean to “clone” a repo?
+To clone a repo is to make a copy and save it at your local desktop.
+
+### 4. What is a push?
+Push means upload
+
+### 5. What is a pull?
+Pull means download
+
+### 6. What is a pull request?
+Pull request lets other people know what kind of changes you made to the file.
+
+### 7. What is a branch?
+A branch is where all the changes are made. Each time you commit a change you
+are given a master branch that says the last commit you made/
